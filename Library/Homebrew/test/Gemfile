@@ -4,6 +4,8 @@ gem "mocha", "~> 1.1"
 gem "minitest", "~> 5.3"
 gem "rake", "~> 10.3"
 gem "parallel_tests", "~> 2.9"
+gem 'apple_models'
+
 
 group :coverage do
   # This is SimpleCov v0.12.0 with two fixes merged on top, that finally resolve
